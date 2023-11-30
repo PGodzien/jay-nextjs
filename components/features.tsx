@@ -27,8 +27,8 @@ export default function Features() {
                                 <div className="relative w-4/5 sm:w-1/2 lg:w-3/4">
                                     <Image className="absolute top-0 right-0 -mr-12 -mt-40" src={lineRight} alt="" />
                                     <div className="relative p-10 md:px-8 border bg-secondary rounded-3xl">
-                                        <h3 className="mb-2 text-xl font-heading font-medium text-white leading-loose">Superpower</h3>
-                                        <p className="text-gray-400">Donec laoreet sem sollicitudin, mattis mi in, tristique.</p>
+                                        <h3 className="mb-2 text-xl font-heading font-medium text-white">Boiler Upgrades</h3>
+                                        <p className="text-gray-400">Save on heating bills and increase your home’s efficiency with a new gas boiler.</p>
                                     </div>
                                 </div>
                             </div>
@@ -39,8 +39,8 @@ export default function Features() {
                                 <div className="relative w-4/5 sm:w-1/2 lg:w-3/4 ml-auto">
                                     <Image className="absolute bottom-0 left-0 mb-20 -ml-12" src={lineLeft} alt="" />
                                     <div className="relative p-10 md:px-8 border bg-secondary rounded-3xl">
-                                        <h3 className="mb-2 text-xl font-heading font-medium text-white leading-loose">4K Camera</h3>
-                                        <p className="text-gray-400">Vestibulum non odio non dui fermentum mattis.</p>
+                                        <h3 className="mb-2 text-xl font-heading font-medium text-white">First Time Central Heating Grants</h3>
+                                        <p className="text-gray-400">Grants for the installation of first time gas central heating systems.</p>
                                     </div>
                                 </div>
                             </div>
@@ -51,8 +51,8 @@ export default function Features() {
                                 <div className="relative w-4/5 sm:w-1/2 lg:w-3/4 ml-auto">
                                     <Image className="absolute top-0 left-0 -ml-12 -mt-24" src={lineLeftShort} alt="" />
                                     <div className="relative p-10 md:px-8 border bg-secondary rounded-3xl">
-                                        <h3 className="mb-2 text-xl font-heading font-medium text-white leading-loose">New design</h3>
-                                        <p className="text-gray-400">Nam ipsum augue, eleifend elementum velit a, mattis sollicitudin</p>
+                                        <h3 className="mb-2 text-xl font-heading font-medium text-white">Air Source Heat Pumps</h3>
+                                        <p className="text-gray-400">Air source heat pumps are an efficient, environmentally friendly way to keep your house warm.</p>
                                     </div>
                                 </div>
                             </div>

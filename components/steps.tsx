@@ -61,7 +61,7 @@ export default function Steps() {
                 <div className="w-full max-w-xs mx-auto md:max-w-none md:mr-4 p-px rounded-xl border border-white border-opacity-20">
                   <div className="p-4 rounded-xl bg-white bg-opacity-10">
                     <div className="flex-shrink-0 inline-flex w-10 h-10 mb-4 items-center justify-center font-medium text-white bg-white bg-opacity-10 rounded-full transition duration-200">3</div>
-                    <p className="max-w-xs font-medium text-gray-200">Check & Confirm Your Eligibility</p>
+                    <p className="max-w-xs font-medium text-gray-200">Check & Confirm <br /> Your Eligibility</p>
                   </div>
                 </div>
                 <span className="hidden md:inline-block">
