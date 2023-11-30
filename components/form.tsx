@@ -16,7 +16,7 @@ import { PhoneIcon } from '@heroicons/react/24/outline'
 
 export default function Example() {
     return (
-        <section className=''>
+        <section id='apply-now' className=''>
             <div className="relative py-24 sm:py-32">
                 <div
                     className="absolute inset-x-0 -top-16 -z-10 flex transform-gpu justify-center overflow-hidden blur-3xl"
@@ -41,11 +41,11 @@ export default function Example() {
                         <p className="text-lg text-gray-600 mt-4">Upgrade your boiler today. Apply for Free Boiler Grant!</p>
                     </div>
                     <div className="mt-10 flex items-center gap-x-6">
-                        <a href="#" className="text-md font-semibold py-3 px-5 bg-primary rounded-full leading-6 text-white hover:text-secondary trannsition duration-200 flex items-center">
+                        <a href="tel:07555221414" className="text-md font-semibold py-3 px-5 bg-primary rounded-full leading-6 text-white hover:text-secondary trannsition duration-200 flex items-center">
                             <span className='w-8 h-auto mr-2' aria-hidden="true"><PhoneIcon /></span>07 555 22 14 14
                         </a>
                         <p className="text-gray-600">or</p>
-                        <a href="#" className="text-sm font-semibold leading-6 text-gray-600">
+                        <a href="#form" className="text-sm font-semibold leading-6 text-gray-600">
                             Send a form <span aria-hidden="true">→</span>
                         </a>
                     </div>
@@ -70,7 +70,7 @@ export default function Example() {
                         </a>
                     </div>
                 </div> */}
-                <div className="space-y-10 divide-y divide-gray-900/10">
+                <div id='form' className="space-y-10 divide-y divide-gray-900/10">
 
                     <div className="grid grid-cols-1 gap-x-8 gap-y-8 pt-10 md:grid-cols-3">
                         <div className="px-4 sm:px-0">

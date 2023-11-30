@@ -5,7 +5,7 @@ import steps from '@/public/steps.jpg'
 export default function Steps() {
 
   return (
-    <section className="py-12 md:py-24 bg-secondary">
+    <section id="how-to-apply" className="py-12 md:py-24 bg-secondary">
       <div className="container px-4 mx-auto">
         <div className="max-w-6xl mx-auto">
           <div className="max-w-4xl mb-24">

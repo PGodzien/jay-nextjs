@@ -6,9 +6,9 @@ import Image from 'next/image'
 import logo from '@/public/logo-green.svg'
 
 const navigation = [
-    { name: 'About scheme', href: '#' },
-    { name: 'How to apply', href: '#' },
-    { name: 'Our services', href: '#' },
+    { name: 'About scheme', href: '#about-scheme' },
+    { name: 'How to apply', href: '#how-to-apply' },
+    { name: 'Our services', href: '#our-services' },
 ]
 
 export default function Nav() {
@@ -37,7 +37,7 @@ export default function Nav() {
                             {item.name}
                         </a>
                     ))}
-                    <a href="#" className="text-lg leading-6 text-primary hover:text-white transition duration-200">
+                    <a href="#apply-now" className="text-lg leading-6 text-primary hover:text-white transition duration-200">
                         Apply now <span aria-hidden="true">&rarr;</span>
                     </a>
                 </div>
@@ -78,7 +78,7 @@ export default function Nav() {
                             </div>
                             <div className="py-6">
                                 <a
-                                    href="#"
+                                    href="#apply-now"
                                     className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
                                 >
                                     Apply now

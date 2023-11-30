@@ -25,12 +25,12 @@ export default function Hero() {
                         </p>
                         <div className="mt-10 flex items-center gap-x-6">
                             <a
-                                href="#"
+                                href="#apply-now"
                                 className="rounded-full bg-primary px-7 py-4 text-sm font-semibold text-white hover:bg-secondary focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-prbg-primary transition duration-200"
                             >
                                 Apply now
                             </a>
-                            <a href="#" className="text-sm font-semibold leading-6 text-gray-900 hover:text-primary transition duration-200">
+                            <a href="#about-scheme" className="text-sm font-semibold leading-6 text-gray-900 hover:text-primary transition duration-200">
                                 Learn more <span aria-hidden="true">→</span>
                             </a>
                         </div>
