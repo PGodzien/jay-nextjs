@@ -15,7 +15,7 @@ export default function Nav() {
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
     return (
-        <header className="relative z-50">
+        <header className="relative z-10">
             <nav className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8" aria-label="Global">
                 <a href="#" className="-m-1.5 p-1.5">
                     <span className="sr-only">Your Company</span>
