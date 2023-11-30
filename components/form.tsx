@@ -41,11 +41,11 @@ export default function Example() {
                         <p className="text-lg text-gray-600 mt-4">Upgrade your boiler today. Apply for Free Boiler Grant!</p>
                     </div>
                     <div className="mt-10 flex items-center gap-x-6">
-                        <a href="tel:07555221414" className="text-md font-semibold py-3 px-5 bg-primary rounded-full leading-6 text-white hover:text-secondary trannsition duration-200 flex items-center">
+                        <a href="tel:07555221414" className="text-sm md:text-md font-semibold py-3 px-5 bg-primary rounded-full leading-6 text-white hover:text-secondary trannsition duration-200 flex items-center">
                             <span className='w-8 h-auto mr-2' aria-hidden="true"><PhoneIcon /></span>07 555 22 14 14
                         </a>
                         <p className="text-gray-600">or</p>
-                        <a href="#form" className="text-sm font-semibold leading-6 text-gray-600">
+                        <a href="#form" className="text-sm flex items-center font-semibold leading-6 text-gray-600">
                             Send a form <span aria-hidden="true">→</span>
                         </a>
                     </div>
