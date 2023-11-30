@@ -1,3 +1,4 @@
+import About from '@/components/about'
 import Hero from '@/components/header'
 import Nav from '@/components/nav'
 import Steps from '@/components/steps'
@@ -8,6 +9,7 @@ export default function Home() {
     <>
       <Nav />
       <Hero />
+      <About />
       <Steps />
     </>
   )

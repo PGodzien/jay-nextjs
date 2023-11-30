@@ -3,7 +3,7 @@ import slider from '@/public/slider.jpg'
 
 export default function Hero() {
     return (
-        <div className="relative bg-white -mt-28 mb-28  z-0">
+        <div className="relative bg-white -mt-28 z-0">
             <div className="mx-auto max-w-7xl lg:grid lg:grid-cols-12 lg:gap-x-8 lg:px-8">
                 <div className="px-6 pb-24 pt-10 sm:pb-32 lg:col-span-7 lg:px-0 lg:pb-56 lg:pt-48 xl:col-span-6">
                     <div className="mx-auto max-w-2xl lg:mx-0">
