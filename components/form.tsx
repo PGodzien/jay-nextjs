@@ -230,7 +230,7 @@ export default function Example() {
 
                                     <div className="sm:col-span-3 mb-4">
                                         <label htmlFor="country" className="block text-sm font-medium leading-6 text-gray-900">
-                                            Are You a Homeowner or Tenant ?
+                                            Are You a Homeowner or Tenant?
                                         </label>
                                         <div className="mt-6 space-y-6">
                                             <div className="flex items-center gap-x-3">
@@ -334,7 +334,7 @@ export default function Example() {
                                                     className="h-4 w-4 border-gray-300 text-indigo-600 focus:secondary"
                                                 />
                                                 <label htmlFor="push-nothing" className="block text-sm font-medium leading-6 text-gray-900">
-                                                    I Don't Have a Boiler
+                                                    I Don&apos;t Have a Boiler
                                                 </label>
                                             </div>
                                         </div>
