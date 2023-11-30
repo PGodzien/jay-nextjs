@@ -1,5 +1,7 @@
 import About from '@/components/about'
 import Features from '@/components/features'
+import Footer from '@/components/footer'
+import Form from '@/components/form'
 import Hero from '@/components/header'
 import Nav from '@/components/nav'
 import Steps from '@/components/steps'
@@ -13,6 +15,8 @@ export default function Home() {
       <About />
       <Steps />
       <Features />
+      <Form />
+      <Footer />
     </>
   )
 }

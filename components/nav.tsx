@@ -38,7 +38,7 @@ export default function Nav() {
                         </a>
                     ))}
                     <a href="#" className="text-lg leading-6 text-primary hover:text-white transition duration-200">
-                        Contact <span aria-hidden="true">&rarr;</span>
+                        Apply now <span aria-hidden="true">&rarr;</span>
                     </a>
                 </div>
             </nav>
@@ -81,7 +81,7 @@ export default function Nav() {
                                     href="#"
                                     className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
                                 >
-                                    Log in
+                                    Apply now
                                 </a>
                             </div>
                         </div>
