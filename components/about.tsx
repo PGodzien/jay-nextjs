@@ -5,12 +5,10 @@ import Image from 'next/image'
 import crown from '@/public/crown.svg'
 
 const benefits = [
-    'Competitive salaries',
-    'Flexible work hours',
-    '30 days of paid vacation',
-    'Annual team retreats',
-    'Benefits for you and your family',
-    'A great work environment',
+    'Upgrade Your Old Boiler in less than 10 Days*',
+    'No Cost To You - 100% FREE',
+    'FREE Loft & Wall Insulation',
+    'Free First Time Central Heating',
 ]
 
 export default function About() {
@@ -45,10 +43,10 @@ export default function About() {
                             </div>
                         </div>
                         <div className="w-full flex-auto">
-                            <h2 className="text-3xl font-medium tracking-tight  sm:text-4xl">Join our team</h2>
+                            <h2 className="text-3xl font-medium tracking-tight  sm:text-4xl">Government Boiler Replacement Scheme</h2>
                             <p className="mt-6 text-lg leading-8 text-secondary">
-                                Lorem ipsum dolor sit amet consect adipisicing elit. Possimus magnam voluptatum cupiditate veritatis in
-                                accusamus quisquam.
+                                Apply today to replace your old, inefficient and Non-Condensing boiler
+                                for FREE under Government’s Free Boiler Scheme.
                             </p>
                             <ul
                                 role="list"
@@ -63,7 +61,7 @@ export default function About() {
                             </ul>
                             <div className="mt-10 flex">
                                 <a href="#" className="text-lg font-medium leading-6 text-primary">
-                                    See our job postings <span aria-hidden="true">&rarr;</span>
+                                    Apply now <span aria-hidden="true">&rarr;</span>
                                 </a>
                             </div>
                         </div>
