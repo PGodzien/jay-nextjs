@@ -222,7 +222,7 @@ export default function Example() {
                                                 <option>Universal Credit</option>
                                                 <option>Child benefit</option>
                                                 <option>Housing Benefit</option>
-                                                <option>I don't recieve benefits</option>
+                                                <option>I don&apos;t recieve benefits</option>
                                                 <option>Other</option>
                                             </select>
                                         </div>
@@ -394,7 +394,7 @@ export default function Example() {
 
                                 </div>
                             </div>
-                            <p className="text-xs p-5">By clicking "Apply Now" you agree to be contacted by telephone, email and electronic messaging and confirm that you have read and agreed to our Terms & Conditions and our Privacy Policy.</p>
+                            <p className="text-xs p-5">By clicking &quot;Apply Now&quot; you agree to be contacted by telephone, email and electronic messaging and confirm that you have read and agreed to our Terms & Conditions and our Privacy Policy.</p>
                             <div className="flex items-center justify-end gap-x-6 border-t border-gray-900/10 px-4 py-4 sm:px-8">
                                 <button
                                     type="submit"
