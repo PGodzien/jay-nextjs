@@ -20,15 +20,15 @@ export default function Hero() {
                             Free boiler solutions
                         </h1>
                         <p className="mt-6 text-lg leading-8 text-gray-600">
-                            Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet
-                            fugiat veniam occaecat fugiat aliqua.
+                            Apply today to replace your old, inefficient and Non-Condensing boiler
+                            for FREE under Government’s Free Boiler Scheme
                         </p>
                         <div className="mt-10 flex items-center gap-x-6">
                             <a
                                 href="#"
                                 className="rounded-full bg-primary px-7 py-4 text-sm font-semibold text-white hover:bg-secondary focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-prbg-primary transition duration-200"
                             >
-                                Get started
+                                Apply now
                             </a>
                             <a href="#" className="text-sm font-semibold leading-6 text-gray-900 hover:text-primary transition duration-200">
                                 Learn more <span aria-hidden="true">→</span>

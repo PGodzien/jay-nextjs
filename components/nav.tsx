@@ -6,10 +6,9 @@ import Image from 'next/image'
 import logo from '@/public/logo-green.svg'
 
 const navigation = [
-    { name: 'Product', href: '#' },
-    { name: 'Features', href: '#' },
-    { name: 'Marketplace', href: '#' },
-    { name: 'Company', href: '#' },
+    { name: 'About scheme', href: '#' },
+    { name: 'How to apply', href: '#' },
+    { name: 'Our services', href: '#' },
 ]
 
 export default function Nav() {
