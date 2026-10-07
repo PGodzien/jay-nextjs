@@ -16,7 +16,7 @@ export default function Footer() {
                         
                     </div>
                     <p className="mt-8 text-xs leading-5 text-gray-400 md:order-1 md:mt-0">
-                        &copy; Realisation <a href="https://getpromo.pl" target="_blank" className="text-primary hover:text-secondary transition duration-200">Getpromo</a>, Inc. All rights reserved.
+                        &copy; Realisation <a href="https://godzien.pl" target="_blank" className="text-primary hover:text-secondary transition duration-200">Getpromo</a>, Inc. All rights reserved.
                     </p>
                 </div>
             </div>
